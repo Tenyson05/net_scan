@@ -1,1 +1,1 @@
-# A script to scan all common open ports and organize them in respective files
+# A script to scan all common ports and organize them in respective files
